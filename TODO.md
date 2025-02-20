@@ -1,7 +1,7 @@
 1. Array
 
 	-	Easy Problems:
-    - [ ]   Two Sum (LeetCode #1) – Find two numbers in an array that sum up to a target value
+    - [x]   Two Sum (LeetCode #1) – Find two numbers in an array that sum up to a target value
     - [ ]   Remove Duplicates from Sorted Array (LeetCode #26) – Remove duplicates in a sorted array, and return the new length of the array.
     
 2. String
