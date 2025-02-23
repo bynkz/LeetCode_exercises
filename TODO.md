@@ -7,13 +7,13 @@
 2. String
 
 	•	Easy Problems:
-    - [ ]   Reverse String (LeetCode #344) – Reverse a string.
-    - [ ]   Valid Palindrome (LeetCode #125) – Check if a string is a palindrome (ignoring spaces and punctuation).
+    - [x]   Reverse String (LeetCode #344) – Reverse a string.
+    - [x]   Valid Palindrome (LeetCode #125) – Check if a string is a palindrome (ignoring spaces and punctuation).
 
 3. Dynamic Programming
 
 	•	Easy Problems:
-    - [ ]   Climbing Stairs (LeetCode #70) – Find the number of ways to reach the top of a staircase when you can either take 1 or 2 steps.
+    - [x]   Climbing Stairs (LeetCode #70) – Find the number of ways to reach the top of a staircase when you can either take 1 or 2 steps.
     - [ ]   House Robber (LeetCode #198) – Maximize the amount of money you can rob from a series of houses without robbing two adjacent houses.
 
 4. Two Pointers
