@@ -14,7 +14,7 @@
 
 	•	Easy Problems:
     - [x]   Climbing Stairs (LeetCode #70) – Find the number of ways to reach the top of a staircase when you can either take 1 or 2 steps.
-    - [ ]   House Robber (LeetCode #198) – Maximize the amount of money you can rob from a series of houses without robbing two adjacent houses.
+    - [x]   House Robber (LeetCode #198) – Maximize the amount of money you can rob from a series of houses without robbing two adjacent houses.
 
 4. Two Pointers
 
